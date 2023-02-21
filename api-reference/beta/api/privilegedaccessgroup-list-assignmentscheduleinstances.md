@@ -1,7 +1,7 @@
 ---
 title: "List assignmentScheduleInstances"
 description: "Get a list of the privilegedAccessGroupAssignmentScheduleInstance objects and their properties."
-author: "mandardalvi"
+author: "rkarim-ms"
 ms.localizationpriority: medium
 ms.prod: "governance"
 doc_type: apiPageType
